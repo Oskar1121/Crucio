@@ -1,0 +1,69 @@
+[Map] 0
+[Start] 240 156
+[Door] north 1 door.png
+[Door] east 3 door.png
+
+[Map] 1
+[Item] spikes 160 100 damage -5 spikes.png
+[Item] spikes 160 170 damage -5 spikes.png
+[Item] spikes 290 100 damage -5 spikes.png
+[Item] spikes 290 170 damage -5 spikes.png
+[Door] south 0 door.png
+[Door] east 2 door.png
+[Monster] 200 95 0 
+		directions none 
+		750 
+		38 43 2 25 30
+		devil.png
+[Monster] 250 95 0 
+		alldirections none 
+		500 
+		38 43 2 25 30
+		devil.png
+[Monster] 200 135 0 
+		alldirections none 
+		1000 
+		38 43 2 25 30
+		devil.png
+[Monster] 250 135 0 
+		alldirections none 
+		1250 
+		38 43 2 25 30
+		devil.png
+
+[Map] 2
+[Item] spikes 230 50 damage -5 spikes.png
+[Item] spikes 230 170 damage -5 spikes.png
+[Item] spikes 170 110 damage -5 spikes.png
+[Item] spikes 290 110 damage -5 spikes.png
+[Blocking] stone_1 200 80 items.png
+[Blocking] stone_1 200 140 items.png
+[Blocking] stone_1 260 80 items.png
+[Blocking] stone_1 260 140 items.png
+[Monster] 225 95 0 
+		directions none 
+		1000 
+		38 43 2 25 30
+		devil.png
+[Door] south 3 door.png
+[Door] west 1 door.png
+
+[Map] 3
+[Blocking] stone_2 160 200 items.png
+[Blocking] stone_2 290 200 items.png
+[Door] west 0 door.png
+[Door] north 2 door.png
+[Door] east 4 door.png
+
+[Map] 4
+[Item] spikes 195 100 damage -5 spikes.png
+[Item] spikes 225 100 damage -5 spikes.png
+[Item] spikes 255 100 damage -5 spikes.png
+[Item] spikes 195 130 damage -5 spikes.png
+[Item] spikes 195 160 damage -5 spikes.png
+[Item] spikes 195 190 damage -5 spikes.png
+[Item] spikes 255 130 damage -5 spikes.png
+[Item] spikes 255 160 damage -5 spikes.png
+[Item] spikes 255 190 damage -5 spikes.png
+[Door] north 5 door.png
+[Door] west 3 door.png

@@ -1,0 +1,12 @@
+items.png
+spikes.png
+health.png
+player.png
+shoot.png
+effect_red.png
+effect.png
+booom.png
+blood.png
+background.png
+door.png
+devil.png
